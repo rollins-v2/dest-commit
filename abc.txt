@@ -1,0 +1,8 @@
+module dev-cool-bucket {
+
+    bucketName = cool-bucket
+
+    tag = cool-tag
+
+    env = dev
+}
